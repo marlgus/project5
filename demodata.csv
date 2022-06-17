@@ -1,0 +1,17 @@
+name,country,country_code,wiki_data_id,latitude,longitude,population,timezone
+Baden-Baden,Germany,DE,Q4100,48.7619,8.2408,55449,Europe__Berlin
+Berlin,Germany,DE,Q64,52.5167,13.3833,3664088,Europe__Berlin
+Bonn,Germany,DE,Q586,50.7339,7.0997,330579,Europe__Berlin
+Bremen,Germany,DE,Q24879,53.0769,8.8089,566573,Europe__Berlin
+Dresden,Germany,DE,Q1731,51.0833,13.7666,554907,Europe__Berlin
+Dortmund,Germany,DE,Q1295,51.5139,7.4653,587696,Europe__Berlin
+Düsseldorf,Germany,DE,Q1718,51.2311,6.7724,645923,Europe__Berlin
+Essen,Germany,DE,Q2066,51.4508,7.0131,582415,Europe__Berlin
+Frankfurt am Main,Germany,DE,Q1794,50.1136,8.6797,764104,Europe__Berlin
+Hamburg,Germany,DE,Q1055,53.55,10.0,1852478,Europe__Berlin
+Hanover,Germany,DE,Q1715,52.3744,9.7386,542668,Europe__Berlin
+Leipzig,Germany,DE,Q2079,51.34,12.375,597215,Europe__Berlin
+Munich,Germany,DE,Q1726,48.1345,11.571,1488202,Europe__Berlin
+Münster,Germany,DE,Q2742,51.9625,7.6256,316403,Europe__Berlin
+Nuremberg,Germany,DE,Q2090,49.4539,11.0775,515543,Europe__Berlin
+Stuttgart,Germany,DE,Q1022,48.7761,9.1775,630305,Europe__Berlin
